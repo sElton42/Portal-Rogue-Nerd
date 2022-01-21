@@ -1,5 +1,7 @@
 <H1>Portal Rogue Nerd</H1>
 
+Projeto Pessoal de Desenvolvimento do Front-end de uma Página voltada para um Canal de Youtube. O intuito deste projeto foi aplicar conhecimentos adquiridos em um Curso de Web Design. 
+
 Observações:
 index.html: Abre a página no navegador.
 
